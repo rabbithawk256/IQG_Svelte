@@ -1,0 +1,16 @@
+/* 
+Font defs from google fonts,
+Appears to work w/ <b> and <i> tags,
+haven't tested.
+*/
+@import url("https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap");
+
+/* Custom classes for <span> */
+
+.header {
+    font-family: "Montserrat", sans-serif;
+    font-size: 2rem;
+}
+
+/* wtf? */

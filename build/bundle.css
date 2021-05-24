@@ -1,0 +1,31 @@
+
+/* 
+The fun thing about trying a new language
+is that you have no idea what works and what doesn't
+god help me
+*/
+
+
+
+/* Imports the other css files, 
+Cleans up files a lot.*/
+@import url("/src/style/fonts.css");
+@import url(/src/style/classes.css);
+:root {
+  /* Declares variables for colours, mainly */
+  --Twilight_BG: #455066;
+  --LightsOut_BG: #000000;
+  --Morning_BG: #bec3d4;
+  /* Text Vairables */
+  --Twilight_Text: #dddddd;
+  --LightsOut_Text: #eeebeb;
+  --Morning_Text: #43494b;
+  /*
+Actual Modifications to the webpage 
+  background-color: var(--Twilight_BG);
+  color: var(--Twilight_Text);
+  font-family: "Courier Prime", monospace;
+  text-align: center;
+  padding-top: 5rem;
+  */
+}
